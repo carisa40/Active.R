@@ -2,7 +2,7 @@
 short assignment for ANA 500 
 ## Quick Introduction
 
-*I'm Anita from Ghana, a data engineer with analysis and project management experience. *
+*I'm Anita from Ghana, a data engineer with analysis and project management experience.*
 
 I enjoy : 
 1. listening to music
