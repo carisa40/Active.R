@@ -1,5 +1,5 @@
-# hello-world
-short assignment for ANA 500 
+# hello-world R
+
 ## Quick Introduction
 
 *I'm Anita from Ghana, a data engineer with analysis and project management experience.*
