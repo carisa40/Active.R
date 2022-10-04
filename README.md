@@ -1,6 +1,3 @@
-# hello-world R
-
-## Quick Introduction
 
 *I'm Ann, a data engineer with data science and project management experience.*
 
